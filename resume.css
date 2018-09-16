@@ -42,9 +42,10 @@ li a:hover:not(.active){background-color: blueviolet;}
     width: 3%;
 }
 .profileImage{
+    margin-top: 3%;
     align: center; 
-    margin-top: 5%;
-    width: 35%;
+    margin-left: 48%;
+    width: 25%;
     border-radius: 50%;
 }
 .mySlides {
@@ -68,4 +69,20 @@ body{
 }
 #subHeaders{
     font-size: 16px;
+}
+#name{
+    color: white; 
+    font-size: 28px;
+    margin-left: 21%;
+    text-align: center;
+}
+#major{
+    color: white; 
+    font-size: 20px;
+    text-align: center;
+}
+#minor{
+    color: white; 
+    font-size: 16px;
+    text-align: center;
 }
